@@ -5,6 +5,6 @@ Features:
   2. Current track: Receives user's current track on spotify then sends it in a pretty way
   3. Password generator: Generates a password with the given amount of length
   4. Levels: Increases user's xp by 10 for a message and pastes the values into an image
-  5. ### TODO
+  5. Register: Registers the user into the database for them to use the main bot features.
 
 
